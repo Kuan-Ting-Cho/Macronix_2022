@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++14 -pthread -g -shared -Wl,-soname,libMotor.so -o libMotor.so CMakeFiles/Motor.dir/Motor.cpp.o CMakeFiles/Motor.dir/MotorMx.cpp.o  -Wl,-rpath,/home/jason-nano/Desktop/wonhon/Motor_Driver/build/MotorUnion/Motor/dynamixel:/home/jason-nano/Desktop/wonhon/Motor_Driver/build/MotorUnion/Motor/motor dynamixel/libDynamixelSdk.so motor/libmotor.so 
