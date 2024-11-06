@@ -1,4 +1,5 @@
 # Macronix_2022
+[Light-Weighted_Articulated_Rover_report](https://github.com/Kuan-Ting-Cho/Macronix_2022/blob/main/Light-Weighted_Articulated_Rover.pdf)
 ## 競賽影片
 [![競賽影片](https://img.youtube.com/vi/Z-dnz38k5nI/0.jpg)](https://www.youtube.com/watch?v=Z-dnz38k5nI)
 ## 評審團銅獎/新手獎
