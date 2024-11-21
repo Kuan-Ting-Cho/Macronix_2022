@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC  -std=c++14 -pthread -g -shared -Wl,-soname,librealsense.so -o librealsense.so CMakeFiles/realsense.dir/rsdis.cpp.o  -lrealsense2 
